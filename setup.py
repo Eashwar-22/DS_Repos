@@ -9,5 +9,5 @@ setuptools.setup(
     description='Tools for EDA and ML',
     url='https://github.com/Eashwar-22/DS_Repos/tree/eda',
     packages=['tools_'],
-    # install_requires=['requests'],
+    install_requires=['requests'],
 )
