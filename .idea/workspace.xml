@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a86ba44f-1ccf-4235-9944-cd49ff115e75" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradient Descent/1_iNPHcCxIvcm7RwkRaMTx1g.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradient Descent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Gradient Descent/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,5 +52,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
