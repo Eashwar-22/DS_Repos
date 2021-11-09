@@ -1,0 +1,6 @@
+,user,datetime,session_id,game_no,chances_left,digits_left,input,hint_given,win
+0,hello123,2021-11-09 01:12:28.382570,ECEHZXKWB6,1,3,6,5,False,False
+1,hello123,2021-11-09 01:12:33.024792,ECEHZXKWB6,1,2,6,8,False,False
+2,hello123,2021-11-09 01:12:34.230739,ECEHZXKWB6,1,1,6,0,False,False
+3,hello123,2021-11-09 01:12:37.693394,ECEHZXKWB6,1,1,4,9,True,False
+4,hello123,2021-11-09 01:12:43.215094,ECEHZXKWB6,1,0,4,9,True,False
